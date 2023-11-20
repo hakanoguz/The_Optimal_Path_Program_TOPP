@@ -27,9 +27,9 @@ def about():
     about.title("About Me")
     my_img = PhotoImage(file="logo\hakan.png")
     my_label_img = Label(about, image=my_img).pack(pady=20)
-    my_label_txt = Label(about, text="TOPP").pack()
-    my_label_txt = Label(about, text="The Optimal Path Program").pack()
-    my_label_txt = Label(about, text="Created by Hakan OGUZ").pack(pady=20)
+    #my_label_txt = Label(about, text="TOPP").pack()
+    my_label_txt = Label(about, text="The Optimal Path Program - TOPP").pack()
+    my_label_txt = Label(about, text="Developed by Hakan OGUZ").pack(pady=20)
     my_label_txt = Label(about, text="Version 1.0.0").pack()
     my_label_txt = Label(about, text="October 2, 2022").pack()
 
