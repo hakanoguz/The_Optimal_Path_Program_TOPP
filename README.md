@@ -5,3 +5,5 @@ This tool was written with Python on October 2nd, 2022 by Hakan OGUZ. This progr
 3) Calculate optimal path in raster format
 4) Convert path to shapefile (line)
 
+
+
